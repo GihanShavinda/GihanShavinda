@@ -9,8 +9,8 @@
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/gihan-shavinda-1a940528b/" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Gihan%20Shyavinda-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5&link=https://www.linkedin.com/in/gihan-shavinda-1a940528b/">
+  <a href="https://www.linkedin.com/in/gihan-shavinda-279480340" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Gihan%20Shyavinda-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5&link=https://www.linkedin.com/in/gihan-shavinda-279480340">
   </a>
   <a href="https://medium.com/@shavindagihan389" target="_blank">
     <img alt="Medium Badge" src="https://img.shields.io/badge/Gihan%20Shyavinda-%2312100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000&color=000000&link=https://medium.com/@shavindagihan389">
