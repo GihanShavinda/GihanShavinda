@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=reactnative&logoColor=black" alt="React Native"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Php-08B8D4?style=for-the-badge&logo=php&logoColor=white" alt="Php"/>
+<img src="https://img.shields.io/badge/Php-DD0031?style=for-the-badge&logo=php&logoColor=white" alt="Php"/>
 
 </div>
 
