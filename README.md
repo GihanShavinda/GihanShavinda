@@ -3,7 +3,9 @@
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>IT undergraduate with hands-on experience across full-stack development, cloud integration, currently pursuing a B.Sc. (Hons) in Information Technology as a 3rd year student from the University of Moratuwa. With a strong foundation in programming and a passion for software development, I am quick to adapt, eager to learn, and committed to contributing to impactful projects. </p>
+    <p>Pursuing a Bachelor of Science Honours in Information Technology at the University of Moratuwa, with an expected graduation date of December 2026. Demonstrates a strong foundation in teamwork and leadership, developed through academic and professional experiences. 
+
+Recently contributed to team-based development projects as a Full Stack Developer at Willsj Technologies LLC, leveraging collaboration and leadership skills to support organizational objectives. Certified in cybersecurity fundamentals and risk management, aiming to deliver impactful IT solutions.. </p>
 </div>
 
 <div align="center">
