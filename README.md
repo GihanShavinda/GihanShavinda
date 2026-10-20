@@ -21,6 +21,7 @@
 Final-year IT undergraduate specializing in **SOC-style threat detection and network intrusion analysis**. I work both sides of security — breaking into systems to understand how they fail, then detecting and responding to those same techniques.
 
 - 🔭 Building **SOCMind AI** — an explainable, human-in-the-loop SOC platform with MITRE ATT&CK mapping, Sigma rules and UEBA.
+- 🟣 Built **PurpleLoop** (purple-team detection validation in a VMware lab) and **VulnForge AI** (evidence-driven exposure & attack-path engineering).
 - 🛡️ **Google Cybersecurity** & **Cisco SOC** certified; leveling up on **TryHackMe**.
 - 💼 Full-stack background (JWT auth, REST API hardening, cloud deployment) that adds real application-security depth beyond a typical SOC-intern profile.
 - 🎯 Targeting a **SOC Analyst / Security Engineer** role.
@@ -35,6 +36,8 @@ Final-year IT undergraduate specializing in **SOC-style threat detection and net
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-C6373A?style=for-the-badge&logo=snort&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C1272D?style=for-the-badge&logoColor=white)
 ![Sigma](https://img.shields.io/badge/Sigma_Rules-1F6FEB?style=for-the-badge&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM_%26_Log_Analysis-0B7285?style=for-the-badge&logoColor=white)
@@ -53,6 +56,7 @@ Final-year IT undergraduate specializing in **SOC-style threat detection and net
 **💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -69,6 +73,7 @@ Final-year IT undergraduate specializing in **SOC-style threat detection and net
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -77,6 +82,7 @@ Final-year IT undergraduate specializing in **SOC-style threat detection and net
 **🐧 OS & Tooling**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VMware](https://img.shields.io/badge/VMware_Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -87,38 +93,37 @@ Final-year IT undergraduate specializing in **SOC-style threat detection and net
 
 <div align="center">
 
-<a href="https://github.com/GihanShavinda/SOCMind-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GihanShavinda&repo=SOCMind-AI&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/GihanShavinda/CloudHunt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GihanShavinda&repo=CloudHunt&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/GihanShavinda/FYP_35_Medinexus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GihanShavinda&repo=FYP_35_Medinexus&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/GihanShavinda/SOC-Forge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GihanShavinda&repo=SOC-Forge&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/GihanShavinda/DepGuard">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GihanShavinda&repo=DepGuard&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/GihanShavinda/Cyber-Awareness-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GihanShavinda&repo=Cyber-Awareness-Platform&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/GihanShavinda/SOCMind-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GihanShavinda&repo=SOCMind-AI&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/GihanShavinda/CloudHunt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GihanShavinda&repo=CloudHunt&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/GihanShavinda/VulnForge-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GihanShavinda&repo=VulnForge-AI&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/GihanShavinda/RedForgeAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GihanShavinda&repo=RedForgeAI&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/GihanShavinda/PurpleLoop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GihanShavinda&repo=PurpleLoop&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[SOCMind AI](https://github.com/GihanShavinda/SOCMind-AI)** | Explainable, human-in-the-loop SOC platform — event detection, incident correlation, attack-story reconstruction & MITRE ATT&CK mapping, validated on a 5-host virtual SOC lab. | Python · Sigma · UEBA |
-| **[Medinexus (IDS)](https://github.com/GihanShavinda/FYP_35_Medinexus)** | Final-year project: multi-protocol IDS detecting 4 attack classes across Wi-Fi, MQTT & Bluetooth medical traffic, with a CIA/HIPAA-aware alerting engine. | Python · dpkt/scapy · FastAPI |
-| **[DepGuard](https://github.com/GihanShavinda/DepGuard)** | Software supply-chain scanner combining OSV intel with behavioral heuristics (typosquatting, install-script risk) across 6 ecosystems, with a 0–100 Trust Score. | Angular · Laravel · Express |
-| **[Cyber Awareness Platform](https://github.com/GihanShavinda/Cyber-Awareness-Platform)** | Adaptive security-awareness platform with simulated phishing + an XGBoost "Human Firewall" risk score per employee. | Angular · Node · FastAPI · Docker |
 | **[CloudHunt](https://github.com/GihanShavinda/CloudHunt)** | Cloud Threat Detection & Response (CDR) for AWS with IAM privilege-escalation path analysis. | Cloud · Python |
-| **[RedForgeAI](https://github.com/GihanShavinda/RedForgeAI)** | AI-powered adversary simulation & purple-team validation platform. | Python · AI |
 | **[SOC-Forge](https://github.com/GihanShavinda/SOC-Forge)** | Integrated cyber threat detection & response lab. | Python |
+| **[DepGuard](https://github.com/GihanShavinda/DepGuard)** | Software supply-chain scanner combining OSV intel with behavioral heuristics (typosquatting, install-script risk) across 6 ecosystems, with a 0–100 Trust Score. | Angular · Laravel · Express |
+| **[SOCMind AI](https://github.com/GihanShavinda/SOCMind-AI)** | Explainable, human-in-the-loop SOC platform — event detection, incident correlation, attack-story reconstruction & MITRE ATT&CK mapping, validated on a 5-host virtual SOC lab. | Python · Sigma · UEBA |
+| **[VulnForge AI](https://github.com/GihanShavinda/VulnForge-AI)** | Evidence-driven exposure management and remediation engineering: authenticated assessment, SBOM analysis, NVD/OSV/CISA KEV/EPSS intel, Neo4j attack-path analysis, environmental risk scoring, grounded AI analysis, and before/after verification of fixes. No automatic exploitation. | Python · FastAPI · React · Neo4j · PostgreSQL |
+| **[PurpleLoop](https://github.com/GihanShavinda/PurpleLoop)** | VMware-first purple-team platform: native Windows (Sysmon/Security), Linux (journald) and Suricata telemetry, with detection validation that checks whether a rule fired on the *exact* event a lab simulation produced. Includes evidence-linked incidents and hunting, Isolation Forest anomaly analysis, and separate-user-approved SOAR dry-runs. | Python · FastAPI · Angular · PostgreSQL · VMware |
 
 ---
 
@@ -171,10 +176,10 @@ Final-year IT undergraduate specializing in **SOC-style threat detection and net
 
 ## 📜 Certifications
 
-- 🎓 **Google Cybersecurity** — Foundations of Cybersecurity · Play It Safe: Manage Security Risks · Connect and Protect: Networks & Network Security
+- 🎓 **Google Cybersecurity** — Foundations of Cybersecurity · Play It Safe: Manage Security Risks · Connect and Protect: Networks & Network Security . Tools of the Trade: Linux and SQL
 - 🎓 **Cisco** — Security Operations Center (SOC)
 - 🎓 **Academy of Future Robotics** — Cybersecurity & Ethical Hacking (4-month course · Grade **A+** · Nov 2025)
-- 🎓 **TryHackMe** — Pre Security Learning Path
+- 🎓 **TryHackMe** — Pre Security Learning Path . Cyber Security 101 Learning Path
 
 ---
 
