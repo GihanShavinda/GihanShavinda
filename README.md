@@ -2,7 +2,7 @@
 
 # Hi, I'm Gihan Shavinda 👋
 
-### 🛡️ Cybersecurity Intern · Aspiring SOC Analyst · Purple-Team Enthusiast
+### 🛡️ Cybersecurity Intern | Aspiring Purple Team Analyst | Security Engineering Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=780&lines=SOC-style+Threat+Detection+%26+Intrusion+Analysis;Red+%2B+Blue+%3D+Purple-Team+Mindset;Full-Stack+Developer+with+AppSec+Depth;Final-year+IT+Undergraduate+%40+Univ.+of+Moratuwa)](https://github.com/GihanShavinda)
 
